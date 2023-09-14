@@ -1,0 +1,14 @@
+C:\Users\azama\source\repos\calculator\calculator\bin\Debug\net7.0\calculator.exe
+C:\Users\azama\source\repos\calculator\calculator\bin\Debug\net7.0\calculator.deps.json
+C:\Users\azama\source\repos\calculator\calculator\bin\Debug\net7.0\calculator.runtimeconfig.json
+C:\Users\azama\source\repos\calculator\calculator\bin\Debug\net7.0\calculator.dll
+C:\Users\azama\source\repos\calculator\calculator\bin\Debug\net7.0\calculator.pdb
+C:\Users\azama\source\repos\calculator\calculator\obj\Debug\net7.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azama\source\repos\calculator\calculator\obj\Debug\net7.0\calculator.AssemblyInfoInputs.cache
+C:\Users\azama\source\repos\calculator\calculator\obj\Debug\net7.0\calculator.AssemblyInfo.cs
+C:\Users\azama\source\repos\calculator\calculator\obj\Debug\net7.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\azama\source\repos\calculator\calculator\obj\Debug\net7.0\calculator.dll
+C:\Users\azama\source\repos\calculator\calculator\obj\Debug\net7.0\refint\calculator.dll
+C:\Users\azama\source\repos\calculator\calculator\obj\Debug\net7.0\calculator.pdb
+C:\Users\azama\source\repos\calculator\calculator\obj\Debug\net7.0\calculator.genruntimeconfig.cache
+C:\Users\azama\source\repos\calculator\calculator\obj\Debug\net7.0\ref\calculator.dll
